@@ -8,7 +8,7 @@ class Second extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     double screenHeight = MediaQuery.of(context).size.height;
-    double screenWidth = MediaQuery.of(context).size.width;
+    // double screenWidth = MediaQuery.of(context).size.width;
     double containerHeight = screenHeight * 0.20;
     return Scaffold(
       body: Container(

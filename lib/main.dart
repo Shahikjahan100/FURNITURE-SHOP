@@ -1,8 +1,8 @@
 import 'package:flutter/material.dart';
-import 'package:furniture_shop/FirstPage.dart';
-import 'package:furniture_shop/HomePage.dart';
+// import 'package:furniture_shop/FirstPage.dart';
+// import 'package:furniture_shop/HomePage.dart';
 import 'package:furniture_shop/Second.dart';
-import 'package:furniture_shop/Tester.dart';
+// import 'package:furniture_shop/Tester.dart';
 
 void main() {
   runApp(const MyApp());
